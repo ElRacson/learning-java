@@ -54,24 +54,19 @@ public class Variables {
         // Price
         float price = 1_2345_567_8989.98F;
 
-        //Double
-        //Financial dept
-        double financeDept = 23_456_789_12_45;
+// String (we can save here any text in double quotes)
+        String firstName = "Ilja";
+        String lastName = "Racavic";
+
+        // var
+        var myCurrentAge = 27;
+        var myFullName = "Ilja Racavic";
 
         // Boolean (true or false)
         // has or is prefix:
         boolean isSummer = false;
         boolean hasSon = false;
         boolean hasBWM = true;
-
-
-        // String (we can save here any text in double quotes)
-        String firstName = 'Ilja';
-        String lastName = 'Racavic';
-
-        // var
-        var myCurrentAge = 27;
-        var myFullName = "Ilja Racavic";
 
         // Operators
         // * - multiplication
@@ -82,6 +77,18 @@ public class Variables {
         // --
         // %
 
+        int remainderResult = 5 % 3;
+        System.out.println(remainderResult);
 
+        // Operators (Simple example)
+        int x = 10;
+        int y = 20;
+        int result = x + y;
+
+        int a = 30;
+        int b = 40;
+        int anotherResult = a - b;
+
+        int c = 10 + 20;
     }
 }
