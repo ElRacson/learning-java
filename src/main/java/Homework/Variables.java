@@ -87,6 +87,14 @@ public class Variables {
             // -- (-1)
             // ++ (+1)
 
+            // Operators simple example
+            int x = 10;
+            int y = 20;
+            int result = x + y;
+
+            int a = 30;
+            int b = 40;
+            int anotherResult = a - b;
 
         }
 
