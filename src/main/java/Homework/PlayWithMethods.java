@@ -20,7 +20,7 @@ public class PlayWithMethods {
         // Find max number out of two numbers
         System.out.println(findMax(40, 30));
         System.out.println(findMax(20, 10));
-        System.out.println(findMax(0, 1);
+        System.out.println(findMax(0, 1));
 
         // Check if word is palindrome
         System.out.println(isPalindrome("kajak"));
